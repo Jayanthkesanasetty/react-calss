@@ -18,7 +18,7 @@ const Table = ()=>{
         </tr>
         <tr >
             <td >3</td>
-            <td >Kishore</td>
+            <td >Kishore</td> 
             <td >12345</td>
         </tr>
     </table>)
