@@ -6,7 +6,7 @@ let Card= ()=>{
     </div>)
 }
 
-export let Card2= ()=>{
+export let Card2= ()=>{ 
     return (<div class="div">
         <h2>JavaScript</h2>
         <p> <strong>DESCRIPTION:</strong> <br /> JavaScript is the programming language of the Web. JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced</p>
