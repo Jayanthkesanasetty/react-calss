@@ -13,4 +13,5 @@ export let Card2= ()=>{
     </div>)
 }
 
+
 export default Card;
