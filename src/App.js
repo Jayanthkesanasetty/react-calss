@@ -9,18 +9,6 @@ function App() {
   return (
     <div className="App">
       <Table />
-      {/* <But />
-      <But />
-      <But />
-      <But />
-      <But />
-      <But />
-      <But />
-      <Head2 />
-      <Head2 />
-      <Head2 />
-      <Head3 />
-      <Head3 /> */}
     </div>
   );  
 }

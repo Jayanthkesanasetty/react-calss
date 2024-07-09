@@ -1,4 +1,6 @@
 table,th,tr,td{
+    margin: 100px;
+    padding: 30px;
     border: 1px solid black;
     border-collapse: collapse;
 }
