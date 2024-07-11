@@ -9,10 +9,10 @@ import Card ,{Card2} from './components/cards/cards';
 function App() {
   return ( 
     <div className="App">
-      <h1>TABLE</h1>
+      {/* <h1>TABLE</h1>
       <Table />
       <h1>CARDS</h1>
-      <Card />
+      <Card /> */}
       <Card2 />
     </div>
   );  
