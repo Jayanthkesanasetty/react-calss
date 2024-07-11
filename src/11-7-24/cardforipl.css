@@ -1,0 +1,34 @@
+.IplCard{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 400px;
+    height: 440px;
+    padding: 20px;
+    margin: 8px;
+    display: inline-block;
+    background-color:seagreen;
+}
+.head{
+    padding-top: 10px;
+    height: 110px;
+    background-image: linear-gradient(orange,white,green);
+    
+}
+.nav{
+    background-color:steelblue;
+    border: 1px solid black;
+   display: inline-flex;
+justify-content: space-evenly;
+    width: 100%;
+    height: 55px;
+}
+.cen{
+    background-color: rgb(28, 28, 28);
+    color: white;
+    padding: 20px;
+    font-size: larger;
+    height: 50px;
+    width: 100%;
+}
+
+
